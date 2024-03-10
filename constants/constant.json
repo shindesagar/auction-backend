@@ -1,0 +1,22 @@
+{
+    "statusCode":{
+        "INTERNAL_SERVER_ERROR": 500,
+        "BAD_REQUEST":400,
+        "NOT_FOUND":404,
+        "SUCCESS":200,
+        "NO_CONTENT":201,
+        "GETWAY_ERROR":503,
+        "NOT_AUTHOURIZED":401,
+        "FORBIDDEN":403 
+    },
+    "statusMessage":{
+        "INTERNAL_SERVER_ERROR": "Internal Server error",
+        "BAD_REQUEST":"Bad Request",
+        "NOT_FOUND":"Nothing Found",
+        "SUCCESS":"Success",
+        "NO_CONTENT":"No Content",
+        "GETWAY_ERROR":"Getway Error",
+        "NOT_AUTHOURIZED":"Not Authourized",
+        "FORBIDDEN":"Forbidden" 
+    }
+}
